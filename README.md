@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Taysa-fernandes
-- 👀 I’m interested in programação e telecomunicações!
+- 👋 ola,eu sou @Taysa-fernandes
+- 👀 Estou interessada em programação e telecomunicações!
 
 <!---
 Taysa-bot/Taysa-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
